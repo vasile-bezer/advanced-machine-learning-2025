@@ -1,0 +1,53 @@
+course = "hy-advanced-ml-2025"
+
+[exercises."part1-01.gradient"]
+id = 287840
+checksum = "5d4397ed8b9cb1cc9a36895002d0f5c8"
+
+[exercises."part1-02.pca"]
+id = 287841
+checksum = "704cabc71b6625a369aae3b1183bcec7"
+
+[exercises."part2-01.nb"]
+id = 287843
+checksum = "b461063138d1f306df279533247c36f2"
+
+[exercises."part2-02.irls"]
+id = 287844
+checksum = "004fae84770289c763b91ab35810e672"
+
+[exercises."part2-03.lasso"]
+id = 287842
+checksum = "5101c108996f7fb79925608c53a296fe"
+
+[exercises."part3-01.svm"]
+id = 287835
+checksum = "e60051e24aad9f8f52482a81b5252ccc"
+
+[exercises."part3-02.rf"]
+id = 287834
+checksum = "dd977f7e889a09414fe182584c21de6f"
+
+[exercises."part3-03.adaboost"]
+id = 287832
+checksum = "8945e6b903d3b235cf24a17cff7707f5"
+
+[exercises."part3-04.neural"]
+id = 287833
+checksum = "4430fb9814588272babdc98edf1d440d"
+
+[exercises."part4-01.em"]
+id = 287837
+checksum = "6df6cbb17fac0ee35bee468935b4e0a2"
+
+[exercises."part4-02.als"]
+id = 287838
+checksum = "ebbfb1d5847dbcb0cc32b89a16dddfd0"
+
+[exercises."part4-03.nmf"]
+id = 287836
+checksum = "2af909314ba816e8d661eb4d75f6ad3b"
+
+[exercises."part4-04.sammon"]
+id = 287839
+checksum = "4ad49d2c5fc91f03f0f9a8c83c2d7a8f"
